@@ -20,8 +20,6 @@
 
 구현 영상 : https://www.youtube.com/watch?v=_7ydfQBLYW4
 
-<img width="1440" alt="스크린샷 2023-07-14 오전 12 04 36" src="https://github.com/cheongsu/Filtering_advertising_comments/assets/103344737/d8d701fa-91ae-4d82-939d-9bfd0fc66fce">
-
   
 ## 개발환경
 
