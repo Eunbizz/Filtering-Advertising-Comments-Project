@@ -1,5 +1,5 @@
 # Filtering_advertising_comments
-22-2 BITAmin NLP + CV project
+### 22-2 BITAmin NLP + CV project
 
 <h1 align="center"> 
 23-1 비타민 광고성 리뷰 필터링 프로젝트 
