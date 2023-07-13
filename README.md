@@ -4,7 +4,8 @@
 <h1 align="center"> 
 23-1 비타민 광고성 리뷰 필터링 프로젝트 
 <h1/>
-  
+  <img width="1010" alt="스크린샷 2023-07-14 오전 1 11 03" src="https://github.com/cheongsu/Filtering-Advertising-Comments-Project/assets/103344737/99be75fc-de7b-4a15-8591-ae1f92a71021">
+
 ## 주제
 
 'BiLSTM을 통한 리뷰 댓글 분류 모델'과 'CNN을 통한 리뷰 이미지 분류 모델'을 앙상블하여 성능을 높인 네이버 미용실 광고성 리뷰 필터링 프로젝트 
